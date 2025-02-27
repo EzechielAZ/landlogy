@@ -767,7 +767,7 @@ nav ul li a:hover:after {
 }
 
 .faq-item.active .faq-answer {
-    max-height: 200px;
+    max-height: 500px;
     padding-top: 20px;
 }
 
